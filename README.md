@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m not learning anything at the moment
 - 💞️ I’m looking to collaborate on uuuuh everything i can
-- 📫 How to reach me i'll leave my discord here later
+- 📫 How to reach me here's my mail: gitstardgrimoire@gmail.com
 - 😄 Pronouns: microwave
 - ⚡ Fun fact: what is this even for?
 
