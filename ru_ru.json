@@ -14,7 +14,7 @@
   "advancements.galosphere.find_pink_salt_shrine.description": "Отыщите храм в глубинах соляных пещер",
   "advancements.galosphere.find_pink_salt_shrine.title": "Пустота моих глаз",
   "advancements.story.light_spread.description": "Запустите светящийся маркер",
-  "advancements.story.light_spread.title": "Как-то темновато тут",
+  "advancements.story.light_spread.title": "Легенда о Данко",
   "advancements.galosphere.light_the_way.description": "Прогуляйтесь по лишайниковому мху",
   "advancements.galosphere.light_the_way.title": "Природные фонари",
   "advancements.story.lumiere_compost.description": "Получите светокаменную пыль, компостируя осколок люмьера",
@@ -28,7 +28,7 @@
   "advancements.galosphere.saltbound_kill_evoker.description": "Убейте заклитателя при помощи соляной таблички",
   "advancements.galosphere.saltbound_kill_evoker.title": "Соль на рану",
   "advancements.galosphere.sterling_armor.description": "Примерьте полный комплект стерлинговой брони",
-  "advancements.galosphere.sterling_armor.title": "Looking Good, Partner!",
+  "advancements.galosphere.sterling_armor.title": "При параде",
   "advancements.galosphere.summon_berserker.description": "Потревожьте берсерка, вступив на его территорию",
   "advancements.galosphere.summon_berserker.title": "Прочь с моего газона",
   "advancements.galosphere.use_spectre_flare.description": "Бросьте маркер ясновидения",
@@ -423,5 +423,5 @@
   "subtitles.item.saltbound_tablet.prepare_attack": "Игрок готовится выпустить шипы",
   "trim_pattern.galosphere.faith": "Отделка «Вера»",
   "upgrade.galosphere.palladium_upgrade": "Палладиевое улучшение",
-  "upgrade.galosphere.preserved_upgrade": "Резервация",
+  "upgrade.galosphere.preserved_upgrade": "Резервация"
 }
